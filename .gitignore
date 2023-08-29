@@ -1,0 +1,5 @@
+!*.dll
+!*.zip
+!/wget*.exe
+!/7z*.exe
+!/VC_redist.*.exe
